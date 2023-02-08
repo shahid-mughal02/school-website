@@ -1,0 +1,16 @@
+.main{
+    background-image: url('6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.473);
+    background-blend-mode: darken;
+    color: white;
+}
+#jumbotron{
+    background: none;
+    border: 1px solid white;
+}
+.row a{
+    color: white;
+}
